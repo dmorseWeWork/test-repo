@@ -1,6 +1,7 @@
 # test-repo
 
 
-Some words I put in the README - DIFFERENT CHANGES THAT I MADE
+
+Some words I put in the README - FIRST CHANGE
 
 Now changes for a second branch
